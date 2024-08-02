@@ -1,8 +1,1 @@
-#Landing-Page
-
-# Landing-Page
-# Landing-Page
-# Landing-Page
-# Landing-Page
-# Landing-Page
-# Landing-Page
+My personal website (developed mainly with CSS and HTML).
